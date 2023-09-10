@@ -132,14 +132,14 @@
 
 .block-text-white{
     position: absolute;
-    left: 165px;
+    left: 145px;
     top: 190px;
     white-space: nowrap;
 }
 
 .block-text-black{
     position: absolute;
-    left: 165px;
+    left: 145px;
     top: 190px;
     color: black;
 }
