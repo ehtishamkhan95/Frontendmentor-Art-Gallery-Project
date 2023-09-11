@@ -101,7 +101,6 @@
     height: 800px;
     position: relative;
     margin-left: 0;
-    
 }
 
 .hero-intro-block-front{
@@ -110,7 +109,7 @@
     position: absolute;
     background-color: black;
     overflow: hidden;
-    text-overflow: ellipsis;
+    text-overflow: clip;
     text-wrap: nowrap;
     z-index: 2;
 }
